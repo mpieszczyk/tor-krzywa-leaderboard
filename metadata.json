@@ -1,0 +1,5 @@
+{
+  "name": "Krzywa Track Leaderboard",
+  "description": "A leaderboard app for Mateusz Wujciów's YouTube series, tracking lap times on the Krzywa track.",
+  "requestFramePermissions": []
+}
